@@ -1,6 +1,8 @@
-Hey, I am Konrad,
+# Hey, I am Konrad 🚀
 
-* Software Developer from Thuringia, Germany.
+* Software Developer from Germany
 * Linux and Open Source Enthusiast
 
-* Teck Stack
+# Tools 🛠️
+  
+[![My Skills](https://skillicons.dev/icons?i=bash,c,git,java,latex,neovim,py,linux)](https://skillicons.dev)
