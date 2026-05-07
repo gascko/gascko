@@ -1,9 +1,4 @@
-![TopBadge](https://capsule-render.vercel.app/api?type=waving&height=250&color=91D06C&text=Hey%20There!%20I'm%20Konrad&animation=fadeIn&fontColor=FFFFFF)
-
-
-# Hey, I am Konrad 🚀
-
-I'm a Software Engineer, Linux Geek and Open Source Enthusiast from Thuringia, Germany.
+![TopBadge](https://capsule-render.vercel.app/api?type=waving&height=250&color=91D06C&text=Hey%20There!%20I'm%20Konrad&desc=I'm%20a%20Software%20Engineer,%20Linux%20Geek%20and%20Open%20Source%20Enthusiast%20from%20Thuringia,%20Germany.&descAlign=50&descAlignY=58&fontAlignY=30&animation=fadeIn&fontColor=FFFFFF)
 
 # Tools 🛠️
   
